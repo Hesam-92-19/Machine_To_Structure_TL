@@ -1,12 +1,24 @@
-# CAVAIE_Paper_Codes
+# Transfer_Learning_SHM
 
-These Jupyter notebooks and accompanying files are for the publication "Towards a general unsupervised novelty detection framework in structural health monitoring."
-https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12812
 
-All codes are written on Google Collaboratory. Colab environment must be used to avoid possible errors.
+##Greetings! This directory contains three Jupyter notebooks. One is designed to train GAN using FFT data, another performs Transfer Learning between two structures to obtain the ROC curves presented in the paper, and the third performs Binary SDD. To run these codes, please click on the next buttons to be automatically directed to Google Collaboratory. If you have any concerns or questions regarding the notebooks, please do not hesitate to contact me (soleimanisam92@g.ucla.edu).
 
-First, Data_Networks_Training_Tuning.ipynb notebook must be executed, and then the other. Further descriptions are available in the files.
+Open GAN_Training.ipynb In Colab: 
+<a target="_blank" href="https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/GAN_Training.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-Please let me know of any difficulties compiling these files on Google Colab. 
 
-Thank you.
+Open ROC_Curve_Results.ipynb In Colab: 
+<a target="_blank" href="https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/ROC_Curve_Results.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+Open Binary_SDD.ipynb In Colab: 
+<a target="_blank" href="https://colab.research.google.com/github/Hesam-92-19/Transfer_Learning_SHM/blob/main/Binary_SDD.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+
