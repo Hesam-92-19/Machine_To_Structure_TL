@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch --index-url https://download.pytorch.org/whl/cu118d
+torchvision --index-url https://download.pytorch.org/whl/cu118d
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+scikit-learn
